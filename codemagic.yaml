@@ -20,4 +20,4 @@ workflows:
       - name: Build Flutter macOS
         script: |
           flutter config --enable-macos-desktop && \
-          flutter build macos
+          flutter build macos --debug --no-codesign
