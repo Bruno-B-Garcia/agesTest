@@ -1,5 +1,6 @@
 workflows:
-  hello-world:
-    name: Hello world workflow
+  flutter-run-ios:
+    name: Flutter Build IOS
     scripts:
-        - echo "Hello World!"
+        - flutter pub get
+        - flutter run ios
