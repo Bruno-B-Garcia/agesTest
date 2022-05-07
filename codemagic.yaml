@@ -3,4 +3,4 @@ workflows:
     name: Flutter Build IOS
     scripts:
         - flutter pub get
-        - flutter run ios
+        - flutter run
