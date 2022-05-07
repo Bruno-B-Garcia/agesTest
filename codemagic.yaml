@@ -1,0 +1,4 @@
+workflows:
+  build-ios:
+    scripts:
+      - flutter build ios
