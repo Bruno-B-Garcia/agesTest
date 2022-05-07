@@ -1,0 +1,1 @@
+enum QrcodeLoginState { idle, success, error }

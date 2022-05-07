@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "375569769208",
+    "project_id": "diario-das-emocoes-81ff9",
+    "storage_bucket": "diario-das-emocoes-81ff9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375569769208:android:88bb5365e35211624c110d",
+        "android_client_info": {
+          "package_name": "com.example.diario_das_emocoes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "375569769208-ug52gvno5rcccdtbaao6eb7o27mtk5bk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUkCwbzK9H7OMeVM5JcbLj4fciAxjHXSY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "375569769208-ug52gvno5rcccdtbaao6eb7o27mtk5bk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "375569769208-36rb6cmc1rcp87eps9tif45m4kamn7d8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.diario_das_emocoes"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
